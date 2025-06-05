@@ -1,7 +1,0 @@
-Grid Search Complete.
-Best Parameters: {'mlp__alpha': 0.01, 'mlp__early_stopping': False, 'mlp__hidden_layer_sizes': (100,), 'mlp__max_iter': 200}
-Best CV Score (Negative MSE): -3.6722886226374185
-
-Evaluation on Test Set using the Best Model:
-Mean Squared Error (MSE): 3.4636
-R² Score: 0.6389

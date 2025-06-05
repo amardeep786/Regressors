@@ -1,2 +1,0 @@
-hidden_layer_sizes,alpha,max_iter,early_stopping,Best_CV_Score_(Neg_MSE),Test_MSE,Test_R2
-"(100,)",0.01,200,False,-3.6722886226374185,3.4636494033553182,0.6388576328486321
