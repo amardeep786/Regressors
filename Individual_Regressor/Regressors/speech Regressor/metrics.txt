@@ -1,0 +1,7 @@
+Train MSE: 59.603834861587735
+Test MSE: 59.44957404360095
+Train RMSE: 7.720351990783046
+Test RMSE: 7.710354988170191
+Train R2: 0.9809076415280724
+Test R2: 0.9806921646605544
+Best Parameters: {'activation': 'tanh', 'alpha': 0.0001, 'batch_size': 64, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 2000}

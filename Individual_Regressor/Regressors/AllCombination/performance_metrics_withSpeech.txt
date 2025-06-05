@@ -1,0 +1,3303 @@
+Iteration: 1
+Combination: p
+Current Script: predict.py
+Execution Time: 18.73 seconds
+RAM Memory Usage: 1355.33 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 56.00 %
+GPU Memory Usage: 2.81 MB
+----------------------------------------
+Iteration: 1
+Combination: s
+Current Script: speech.py
+Execution Time: 1.73 seconds
+RAM Memory Usage: 353.81 MB
+CPU Usage Per Core: [0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 70.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 9.1, 0.0, 16.7, 9.1, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 0.00 %
+GPU Memory Usage: 1.89 MB
+----------------------------------------
+Iteration: 1
+Combination: d
+Current Script: detect.py
+Execution Time: 14.66 seconds
+RAM Memory Usage: 1336.42 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 23.00 %
+GPU Memory Usage: 2.32 MB
+----------------------------------------
+Iteration: 1
+Combination: pp
+Current Script: predict.py
+Execution Time: 17.65 seconds
+RAM Memory Usage: 1371.65 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 3.71 MB
+----------------------------------------
+Iteration: 1
+Combination: pp
+Current Script: predict.py
+Execution Time: 17.87 seconds
+RAM Memory Usage: 1356.11 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 22.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 3.71 MB
+----------------------------------------
+Iteration: 1
+Combination: ps
+Current Script: speech.py
+Execution Time: 1.76 seconds
+RAM Memory Usage: 353.96 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 66.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 0.00 %
+GPU Memory Usage: 1.89 MB
+----------------------------------------
+Iteration: 1
+Combination: ps
+Current Script: predict.py
+Execution Time: 15.93 seconds
+RAM Memory Usage: 1374.62 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 24.00 %
+GPU Memory Usage: 2.80 MB
+----------------------------------------
+Iteration: 1
+Combination: pd
+Current Script: detect.py
+Execution Time: 17.05 seconds
+RAM Memory Usage: 1335.70 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 81.8, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 3.23 MB
+----------------------------------------
+Iteration: 1
+Combination: pd
+Current Script: predict.py
+Execution Time: 17.52 seconds
+RAM Memory Usage: 1367.27 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 33.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 3.23 MB
+----------------------------------------
+Iteration: 1
+Combination: sp
+Current Script: speech.py
+Execution Time: 1.74 seconds
+RAM Memory Usage: 353.45 MB
+CPU Usage Per Core: [9.1, 60.0, 0.0, 0.0, 0.0, 0.0, 36.4, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0]
+GPU Usage: 0.00 %
+GPU Memory Usage: 1.89 MB
+----------------------------------------
+Iteration: 1
+Combination: sp
+Current Script: predict.py
+Execution Time: 16.22 seconds
+RAM Memory Usage: 1375.57 MB
+CPU Usage Per Core: [30.0, 10.0, 36.4, 100.0, 10.0, 0.0, 10.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 9.1, 9.1, 40.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 9.1, 16.7, 27.3]
+GPU Usage: 30.00 %
+GPU Memory Usage: 2.80 MB
+----------------------------------------
+Iteration: 1
+Combination: ss
+Current Script: speech.py
+Execution Time: 1.70 seconds
+RAM Memory Usage: 353.14 MB
+CPU Usage Per Core: [10.0, 10.0, 0.0, 18.2, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 60.0, 10.0, 10.0, 10.0, 20.0, 20.0, 9.1, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 1.89 MB
+----------------------------------------
+Iteration: 1
+Combination: ss
+Current Script: speech.py
+Execution Time: 1.75 seconds
+RAM Memory Usage: 347.50 MB
+CPU Usage Per Core: [11.1, 9.1, 10.0, 18.2, 0.0, 100.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 66.7, 16.7, 0.0, 0.0, 27.3, 18.2, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 1.89 MB
+----------------------------------------
+Iteration: 1
+Combination: sd
+Current Script: speech.py
+Execution Time: 1.73 seconds
+RAM Memory Usage: 353.40 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 81.8, 10.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 16.00 %
+GPU Memory Usage: 1.90 MB
+----------------------------------------
+Iteration: 1
+Combination: sd
+Current Script: detect.py
+Execution Time: 14.90 seconds
+RAM Memory Usage: 1336.88 MB
+CPU Usage Per Core: [9.1, 9.1, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 44.4, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 20.00 %
+GPU Memory Usage: 2.32 MB
+----------------------------------------
+Iteration: 1
+Combination: dp
+Current Script: detect.py
+Execution Time: 16.77 seconds
+RAM Memory Usage: 1361.00 MB
+CPU Usage Per Core: [0.0, 0.0, 18.2, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 30.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 16.7, 0.0, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 3.24 MB
+----------------------------------------
+Iteration: 1
+Combination: dp
+Current Script: predict.py
+Execution Time: 17.65 seconds
+RAM Memory Usage: 1369.14 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 3.24 MB
+----------------------------------------
+Iteration: 1
+Combination: p
+Current Script: predict.py
+Execution Time: 16.56 seconds
+RAM Memory Usage: 1369.86 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 39.00 %
+GPU Memory Usage: 13.81 MB
+----------------------------------------
+Iteration: 1
+Combination: s
+Current Script: speech.py
+Execution Time: 1.78 seconds
+RAM Memory Usage: 352.95 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 9.1, 0.0, 0.0, 0.0, 0.0, 30.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: d
+Current Script: detect.py
+Execution Time: 14.60 seconds
+RAM Memory Usage: 1350.56 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 20.00 %
+GPU Memory Usage: 13.32 MB
+----------------------------------------
+Iteration: 1
+Combination: pp
+Current Script: predict.py
+Execution Time: 17.83 seconds
+RAM Memory Usage: 1356.09 MB
+CPU Usage Per Core: [0.0, 100.0, 20.0, 30.0, 9.1, 100.0, 0.0, 0.0, 30.0, 27.3, 27.3, 0.0, 9.1, 0.0, 22.2, 9.1, 27.3, 0.0, 0.0, 9.1, 9.1, 27.3, 9.1, 9.1, 11.1, 0.0, 0.0, 16.7, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 67.00 %
+GPU Memory Usage: 14.71 MB
+----------------------------------------
+Iteration: 1
+Combination: pp
+Current Script: predict.py
+Execution Time: 17.95 seconds
+RAM Memory Usage: 1374.84 MB
+CPU Usage Per Core: [90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 63.6, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 10.0]
+GPU Usage: 64.00 %
+GPU Memory Usage: 14.71 MB
+----------------------------------------
+Iteration: 1
+Combination: ps
+Current Script: speech.py
+Execution Time: 1.75 seconds
+RAM Memory Usage: 346.92 MB
+CPU Usage Per Core: [0.0, 10.0, 100.0, 0.0, 9.1, 66.7, 50.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 10.0, 40.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.91 MB
+----------------------------------------
+Iteration: 1
+Combination: ps
+Current Script: predict.py
+Execution Time: 17.20 seconds
+RAM Memory Usage: 1362.76 MB
+CPU Usage Per Core: [0.0, 20.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 70.0, 0.0, 10.0]
+GPU Usage: 41.00 %
+GPU Memory Usage: 13.81 MB
+----------------------------------------
+Iteration: 1
+Combination: pd
+Current Script: detect.py
+Execution Time: 17.25 seconds
+RAM Memory Usage: 1334.56 MB
+CPU Usage Per Core: [9.1, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 10.0, 10.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 9.1, 0.0, 100.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.23 MB
+----------------------------------------
+Iteration: 1
+Combination: pd
+Current Script: predict.py
+Execution Time: 17.60 seconds
+RAM Memory Usage: 1360.31 MB
+CPU Usage Per Core: [0.0, 25.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 88.9, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.23 MB
+----------------------------------------
+Iteration: 1
+Combination: sp
+Current Script: speech.py
+Execution Time: 1.75 seconds
+RAM Memory Usage: 353.38 MB
+CPU Usage Per Core: [0.0, 0.0, 90.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 20.0, 0.0, 10.0, 11.1, 0.0, 10.0, 9.1, 9.1, 0.0, 9.1, 100.0, 0.0, 0.0, 88.9, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: sp
+Current Script: predict.py
+Execution Time: 17.28 seconds
+RAM Memory Usage: 1380.71 MB
+CPU Usage Per Core: [0.0, 80.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 41.00 %
+GPU Memory Usage: 13.81 MB
+----------------------------------------
+Iteration: 1
+Combination: ss
+Current Script: speech.py
+Execution Time: 1.77 seconds
+RAM Memory Usage: 350.93 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 9.1, 9.1, 18.2, 0.0, 0.0, 0.0, 18.2, 0.0, 100.0]
+GPU Usage: 11.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: ss
+Current Script: speech.py
+Execution Time: 1.81 seconds
+RAM Memory Usage: 365.33 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 11.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: sd
+Current Script: speech.py
+Execution Time: 1.73 seconds
+RAM Memory Usage: 348.77 MB
+CPU Usage Per Core: [9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 21.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: sd
+Current Script: detect.py
+Execution Time: 15.76 seconds
+RAM Memory Usage: 1336.10 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 50.0, 0.0, 0.0]
+GPU Usage: 39.00 %
+GPU Memory Usage: 13.34 MB
+----------------------------------------
+Iteration: 1
+Combination: dp
+Current Script: detect.py
+Execution Time: 17.14 seconds
+RAM Memory Usage: 1339.57 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 72.7, 33.3, 0.0, 0.0, 54.5, 0.0, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 22.2, 9.1, 100.0, 0.0, 40.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.23 MB
+----------------------------------------
+Iteration: 1
+Combination: dp
+Current Script: predict.py
+Execution Time: 17.94 seconds
+RAM Memory Usage: 1361.71 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 50.0, 9.1, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.23 MB
+----------------------------------------
+Iteration: 1
+Combination: ds
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 352.66 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.89 MB
+----------------------------------------
+Iteration: 1
+Combination: ds
+Current Script: detect.py
+Execution Time: 15.58 seconds
+RAM Memory Usage: 1338.77 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 27.00 %
+GPU Memory Usage: 13.32 MB
+----------------------------------------
+Iteration: 1
+Combination: dd
+Current Script: detect.py
+Execution Time: 16.98 seconds
+RAM Memory Usage: 1355.43 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 64.00 %
+GPU Memory Usage: 13.77 MB
+----------------------------------------
+Iteration: 1
+Combination: dd
+Current Script: detect.py
+Execution Time: 17.08 seconds
+RAM Memory Usage: 1344.84 MB
+CPU Usage Per Core: [9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 66.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 63.00 %
+GPU Memory Usage: 13.77 MB
+----------------------------------------
+Iteration: 1
+Combination: pppp
+Current Script: predict.py
+Execution Time: 23.72 seconds
+RAM Memory Usage: 1357.34 MB
+CPU Usage Per Core: [0.0, 10.0, 30.0, 0.0, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 66.7, 88.9, 100.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.54 MB
+----------------------------------------
+Iteration: 1
+Combination: pppp
+Current Script: predict.py
+Execution Time: 23.73 seconds
+RAM Memory Usage: 1355.52 MB
+CPU Usage Per Core: [0.0, 18.2, 30.0, 0.0, 20.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 80.0, 100.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 16.53 MB
+----------------------------------------
+Iteration: 1
+Combination: pppp
+Current Script: predict.py
+Execution Time: 23.84 seconds
+RAM Memory Usage: 1359.83 MB
+CPU Usage Per Core: [10.0, 10.0, 20.0, 0.0, 50.0, 88.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 9.1, 0.0, 0.0, 11.1, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 18.2, 11.1, 10.0, 11.1, 10.0, 0.0, 10.0, 100.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 16.54 MB
+----------------------------------------
+Iteration: 1
+Combination: pppp
+Current Script: predict.py
+Execution Time: 24.02 seconds
+RAM Memory Usage: 1359.42 MB
+CPU Usage Per Core: [10.0, 10.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 60.0, 0.0, 0.0, 40.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 16.53 MB
+----------------------------------------
+Iteration: 1
+Combination: ppps
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 353.45 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 9.1, 20.0, 100.0, 20.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 81.8, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 80.0, 0.0, 80.0, 100.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.91 MB
+----------------------------------------
+Iteration: 1
+Combination: ppps
+Current Script: predict.py
+Execution Time: 20.76 seconds
+RAM Memory Usage: 1356.28 MB
+CPU Usage Per Core: [0.0, 60.0, 40.0, 0.0, 40.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 50.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: ppps
+Current Script: predict.py
+Execution Time: 20.80 seconds
+RAM Memory Usage: 1357.22 MB
+CPU Usage Per Core: [0.0, 60.0, 40.0, 0.0, 40.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 50.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: ppps
+Current Script: predict.py
+Execution Time: 20.85 seconds
+RAM Memory Usage: 1358.00 MB
+CPU Usage Per Core: [18.2, 11.1, 70.0, 11.1, 22.2, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 66.7, 22.2, 27.3, 0.0, 0.0, 0.0, 10.0, 12.5, 0.0, 9.1]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: pppd
+Current Script: detect.py
+Execution Time: 22.19 seconds
+RAM Memory Usage: 1365.42 MB
+CPU Usage Per Core: [9.1, 100.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pppd
+Current Script: predict.py
+Execution Time: 22.41 seconds
+RAM Memory Usage: 1371.70 MB
+CPU Usage Per Core: [0.0, 60.0, 100.0, 40.0, 10.0, 0.0, 40.0, 0.0, 30.0, 0.0, 9.1, 0.0, 10.0, 10.0, 9.1, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 9.1, 0.0, 18.2, 0.0]
+GPU Usage: 92.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pppd
+Current Script: predict.py
+Execution Time: 22.63 seconds
+RAM Memory Usage: 1369.79 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 50.0, 10.0, 0.0, 9.1, 54.5, 0.0]
+GPU Usage: 92.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pppd
+Current Script: predict.py
+Execution Time: 22.74 seconds
+RAM Memory Usage: 1362.39 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 18.2, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 92.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsp
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 353.04 MB
+CPU Usage Per Core: [40.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 100.0, 18.2, 0.0, 0.0, 0.0, 10.0, 30.0]
+GPU Usage: 8.00 %
+GPU Memory Usage: 12.91 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsp
+Current Script: predict.py
+Execution Time: 20.70 seconds
+RAM Memory Usage: 1352.93 MB
+CPU Usage Per Core: [80.0, 0.0, 0.0, 9.1, 10.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.64 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsp
+Current Script: predict.py
+Execution Time: 20.73 seconds
+RAM Memory Usage: 1387.56 MB
+CPU Usage Per Core: [80.0, 0.0, 0.0, 0.0, 0.0, 36.4, 18.2, 0.0, 0.0, 80.0, 0.0, 0.0, 20.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 12.5, 0.0, 0.0, 9.1, 66.7]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.63 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsp
+Current Script: predict.py
+Execution Time: 20.74 seconds
+RAM Memory Usage: 1358.93 MB
+CPU Usage Per Core: [33.3, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 63.6, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 0.0, 30.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.63 MB
+----------------------------------------
+Iteration: 1
+Combination: ppss
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.20 MB
+CPU Usage Per Core: [0.0, 20.0, 0.0, 20.0, 9.1, 0.0, 0.0, 66.7, 0.0, 10.0, 60.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, 10.0, 0.0, 9.1, 10.0, 33.3, 33.3, 20.0, 0.0, 33.3, 0.0, 0.0, 20.0, 100.0, 72.7]
+GPU Usage: 20.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: ppss
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 353.39 MB
+CPU Usage Per Core: [0.0, 20.0, 0.0, 20.0, 9.1, 0.0, 0.0, 60.0, 0.0, 10.0, 60.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, 9.1, 0.0, 18.2, 10.0, 33.3, 40.0, 18.2, 0.0, 33.3, 0.0, 0.0, 20.0, 100.0, 72.7]
+GPU Usage: 20.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: ppss
+Current Script: predict.py
+Execution Time: 19.02 seconds
+RAM Memory Usage: 1356.32 MB
+CPU Usage Per Core: [0.0, 9.1, 100.0, 60.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 9.1, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 66.00 %
+GPU Memory Usage: 14.73 MB
+----------------------------------------
+Iteration: 1
+Combination: ppss
+Current Script: predict.py
+Execution Time: 19.03 seconds
+RAM Memory Usage: 1356.74 MB
+CPU Usage Per Core: [0.0, 10.0, 44.4, 45.5, 0.0, 45.5, 10.0, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 22.2, 9.1, 0.0, 54.5, 9.1, 18.2, 0.0, 10.0, 30.0, 11.1]
+GPU Usage: 67.00 %
+GPU Memory Usage: 14.73 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsd
+Current Script: speech.py
+Execution Time: 1.72 seconds
+RAM Memory Usage: 353.06 MB
+CPU Usage Per Core: [9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.91 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsd
+Current Script: detect.py
+Execution Time: 20.05 seconds
+RAM Memory Usage: 1334.55 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 20.0, 9.1, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsd
+Current Script: predict.py
+Execution Time: 20.38 seconds
+RAM Memory Usage: 1380.03 MB
+CPU Usage Per Core: [18.2, 40.0, 33.3, 0.0, 9.1, 33.3, 20.0, 72.7, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 9.1, 0.0, 0.0, 30.0, 0.0, 0.0, 27.3, 27.3, 9.1, 11.1, 10.0, 50.0, 9.1, 30.0, 9.1, 36.4]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppsd
+Current Script: predict.py
+Execution Time: 20.39 seconds
+RAM Memory Usage: 1352.90 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 10.0, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 9.1, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 11.1, 0.0, 63.6, 0.0, 9.1, 0.0, 9.1]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdp
+Current Script: detect.py
+Execution Time: 22.08 seconds
+RAM Memory Usage: 1336.84 MB
+CPU Usage Per Core: [9.1, 0.0, 100.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 16.7, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 20.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.08 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdp
+Current Script: predict.py
+Execution Time: 22.41 seconds
+RAM Memory Usage: 1356.96 MB
+CPU Usage Per Core: [40.0, 0.0, 40.0, 0.0, 0.0, 0.0, 10.0, 0.0, 60.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.08 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdp
+Current Script: predict.py
+Execution Time: 22.77 seconds
+RAM Memory Usage: 1365.95 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 40.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.08 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdp
+Current Script: predict.py
+Execution Time: 22.77 seconds
+RAM Memory Usage: 1359.58 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 10.0, 0.0, 9.1, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 20.0, 20.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.08 MB
+----------------------------------------
+Iteration: 1
+Combination: ppds
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 359.54 MB
+CPU Usage Per Core: [9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 20.0, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0]
+GPU Usage: 10.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: ppds
+Current Script: detect.py
+Execution Time: 19.50 seconds
+RAM Memory Usage: 1351.96 MB
+CPU Usage Per Core: [0.0, 100.0, 9.1, 18.2, 10.0, 0.0, 20.0, 22.2, 100.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 18.2, 0.0, 20.0, 54.5, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 50.0, 20.0, 10.0, 0.0, 11.1, 0.0]
+GPU Usage: 78.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppds
+Current Script: predict.py
+Execution Time: 20.15 seconds
+RAM Memory Usage: 1380.99 MB
+CPU Usage Per Core: [18.2, 0.0, 9.1, 0.0, 18.2, 10.0, 0.0, 0.0, 45.5, 10.0, 0.0, 0.0, 0.0, 9.1, 0.0, 11.1, 0.0, 0.0, 30.0, 60.0, 66.7, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 88.9, 0.0, 10.0, 72.7]
+GPU Usage: 78.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppds
+Current Script: predict.py
+Execution Time: 20.15 seconds
+RAM Memory Usage: 1354.64 MB
+CPU Usage Per Core: [11.1, 0.0, 18.2, 20.0, 20.0, 20.0, 10.0, 0.0, 27.3, 20.0, 9.1, 9.1, 0.0, 0.0, 20.0, 0.0, 0.0, 9.1, 30.0, 63.6, 60.0, 9.1, 0.0, 18.2, 11.1, 0.0, 10.0, 20.0, 81.8, 11.1, 10.0, 81.8]
+GPU Usage: 79.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdd
+Current Script: predict.py
+Execution Time: 21.70 seconds
+RAM Memory Usage: 1355.47 MB
+CPU Usage Per Core: [50.0, 30.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 63.6, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 54.5, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.58 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdd
+Current Script: detect.py
+Execution Time: 21.72 seconds
+RAM Memory Usage: 1345.14 MB
+CPU Usage Per Core: [0.0, 72.7, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 10.0, 0.0, 18.2, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 54.5, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.58 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdd
+Current Script: predict.py
+Execution Time: 21.86 seconds
+RAM Memory Usage: 1373.85 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 11.1, 18.2, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 40.0, 0.0, 50.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 18.2, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.58 MB
+----------------------------------------
+Iteration: 1
+Combination: ppdd
+Current Script: detect.py
+Execution Time: 21.86 seconds
+RAM Memory Usage: 1334.13 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 16.7, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 45.5, 0.0, 50.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 63.6, 0.0, 0.0, 18.2, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.58 MB
+----------------------------------------
+Iteration: 1
+Combination: pspp
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 347.16 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 90.0, 10.0, 100.0, 0.0, 100.0, 9.1, 9.1, 88.9, 9.1, 100.0, 0.0, 0.0, 0.0, 50.0, 9.1, 16.7, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: pspp
+Current Script: predict.py
+Execution Time: 20.44 seconds
+RAM Memory Usage: 1360.43 MB
+CPU Usage Per Core: [0.0, 0.0, 40.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 9.1, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 55.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.64 MB
+----------------------------------------
+Iteration: 1
+Combination: pspp
+Current Script: predict.py
+Execution Time: 20.52 seconds
+RAM Memory Usage: 1372.11 MB
+CPU Usage Per Core: [10.0, 0.0, 27.3, 0.0, 0.0, 100.0, 81.8, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 55.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.64 MB
+----------------------------------------
+Iteration: 1
+Combination: pspp
+Current Script: predict.py
+Execution Time: 20.52 seconds
+RAM Memory Usage: 1370.58 MB
+CPU Usage Per Core: [0.0, 0.0, 36.4, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.64 MB
+----------------------------------------
+Iteration: 1
+Combination: psps
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 353.40 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 60.0, 0.0, 100.0, 0.0, 0.0, 100.0, 10.0, 9.1, 0.0, 100.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: psps
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 351.43 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 60.0, 0.0, 100.0, 0.0, 0.0, 100.0, 9.1, 9.1, 0.0, 100.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: psps
+Current Script: predict.py
+Execution Time: 18.39 seconds
+RAM Memory Usage: 1362.68 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 10.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.73 MB
+----------------------------------------
+Iteration: 1
+Combination: psps
+Current Script: predict.py
+Execution Time: 18.64 seconds
+RAM Memory Usage: 1372.53 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 9.1, 0.0, 10.0, 9.1, 50.0, 0.0, 0.0, 0.0, 100.0, 16.7, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.73 MB
+----------------------------------------
+Iteration: 1
+Combination: pspd
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 364.04 MB
+CPU Usage Per Core: [10.0, 27.3, 40.0, 0.0, 0.0, 0.0, 10.0, 70.0, 9.1, 0.0, 20.0, 0.0, 9.1, 100.0, 0.0, 0.0, 33.3, 0.0, 100.0, 0.0, 63.6, 18.2, 0.0, 0.0, 44.4, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 8.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: pspd
+Current Script: detect.py
+Execution Time: 19.87 seconds
+RAM Memory Usage: 1366.12 MB
+CPU Usage Per Core: [9.1, 100.0, 0.0, 80.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: pspd
+Current Script: predict.py
+Execution Time: 20.16 seconds
+RAM Memory Usage: 1371.80 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 9.1, 0.0, 0.0, 20.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 88.9, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 78.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: pspd
+Current Script: predict.py
+Execution Time: 20.25 seconds
+RAM Memory Usage: 1353.76 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 100.0, 11.1, 9.1, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 30.0, 27.3, 0.0, 10.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: pssp
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 362.66 MB
+CPU Usage Per Core: [9.1, 60.0, 100.0, 40.0, 50.0, 100.0, 40.0, 0.0, 40.0, 10.0, 0.0, 20.0, 0.0, 11.1, 10.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 10.0, 36.4, 0.0, 27.3, 0.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: pssp
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 362.66 MB
+CPU Usage Per Core: [18.2, 70.0, 100.0, 36.4, 30.0, 100.0, 27.3, 0.0, 30.0, 10.0, 0.0, 10.0, 0.0, 20.0, 9.1, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 9.1, 9.1, 27.3, 0.0, 20.0, 0.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: pssp
+Current Script: predict.py
+Execution Time: 18.67 seconds
+RAM Memory Usage: 1355.80 MB
+CPU Usage Per Core: [0.0, 70.0, 100.0, 10.0, 18.2, 0.0, 90.9, 0.0, 10.0, 11.1, 41.7, 40.0, 40.0, 0.0, 20.0, 0.0, 11.1, 0.0, 0.0, 20.0, 27.3, 30.0, 18.2, 40.0, 10.0, 10.0, 0.0, 30.0, 0.0, 22.2, 50.0, 20.0]
+GPU Usage: 68.00 %
+GPU Memory Usage: 14.77 MB
+----------------------------------------
+Iteration: 1
+Combination: pssp
+Current Script: predict.py
+Execution Time: 18.95 seconds
+RAM Memory Usage: 1361.12 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 33.3, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 9.1, 0.0, 20.0, 0.0, 0.0]
+GPU Usage: 68.00 %
+GPU Memory Usage: 14.78 MB
+----------------------------------------
+Iteration: 1
+Combination: psss
+Current Script: speech.py
+Execution Time: 2.02 seconds
+RAM Memory Usage: 353.77 MB
+CPU Usage Per Core: [0.0, 10.0, 10.0, 0.0, 22.2, 22.2, 9.1, 11.1, 0.0, 0.0, 0.0, 40.0, 100.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 80.0, 0.0, 30.0, 0.0, 0.0, 22.2, 30.0, 10.0, 10.0, 0.0, 0.0, 22.2]
+GPU Usage: 11.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: psss
+Current Script: speech.py
+Execution Time: 2.03 seconds
+RAM Memory Usage: 363.58 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 0.0, 20.0, 30.0, 9.1, 9.1, 0.0, 0.0, 9.1, 30.0, 100.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 88.9, 20.0, 36.4, 0.0, 0.0, 22.2, 18.2, 9.1, 9.1, 0.0, 0.0, 18.2]
+GPU Usage: 11.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: psss
+Current Script: speech.py
+Execution Time: 2.07 seconds
+RAM Memory Usage: 363.83 MB
+CPU Usage Per Core: [20.0, 30.0, 0.0, 0.0, 0.0, 30.0, 0.0, 9.1, 10.0, 9.1, 10.0, 0.0, 100.0, 40.0, 0.0, 27.3, 0.0, 0.0, 18.2, 11.1, 100.0, 20.0, 30.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 11.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: psss
+Current Script: predict.py
+Execution Time: 16.92 seconds
+RAM Memory Usage: 1360.25 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 90.9, 9.1]
+GPU Usage: 39.00 %
+GPU Memory Usage: 13.85 MB
+----------------------------------------
+Iteration: 1
+Combination: pssd
+Current Script: speech.py
+Execution Time: 1.74 seconds
+RAM Memory Usage: 352.97 MB
+CPU Usage Per Core: [30.0, 0.0, 100.0, 100.0, 100.0, 70.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 20.0, 0.0]
+GPU Usage: 10.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: pssd
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 363.85 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 100.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 10.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: pssd
+Current Script: detect.py
+Execution Time: 17.33 seconds
+RAM Memory Usage: 1337.65 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 9.1, 0.0, 10.0, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 16.7, 0.0, 10.0, 9.1, 0.0, 11.1, 0.0]
+GPU Usage: 64.00 %
+GPU Memory Usage: 14.29 MB
+----------------------------------------
+Iteration: 1
+Combination: pssd
+Current Script: predict.py
+Execution Time: 18.07 seconds
+RAM Memory Usage: 1354.41 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 64.00 %
+GPU Memory Usage: 14.29 MB
+----------------------------------------
+Iteration: 1
+Combination: psdp
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 363.45 MB
+CPU Usage Per Core: [30.0, 10.0, 0.0, 100.0, 100.0, 0.0, 0.0, 9.1, 0.0, 40.0, 0.0, 0.0, 20.0, 0.0, 100.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 66.7, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: psdp
+Current Script: detect.py
+Execution Time: 19.72 seconds
+RAM Memory Usage: 1334.54 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 79.00 %
+GPU Memory Usage: 15.21 MB
+----------------------------------------
+Iteration: 1
+Combination: psdp
+Current Script: predict.py
+Execution Time: 19.76 seconds
+RAM Memory Usage: 1357.92 MB
+CPU Usage Per Core: [0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 37.5, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.21 MB
+----------------------------------------
+Iteration: 1
+Combination: psdp
+Current Script: predict.py
+Execution Time: 19.88 seconds
+RAM Memory Usage: 1358.58 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 0.0, 18.2, 9.1, 0.0, 27.3, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.21 MB
+----------------------------------------
+Iteration: 1
+Combination: psds
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 351.62 MB
+CPU Usage Per Core: [100.0, 0.0, 40.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 81.8, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 16.7, 11.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.96 MB
+----------------------------------------
+Iteration: 1
+Combination: psds
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 363.67 MB
+CPU Usage Per Core: [100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 9.1, 20.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 10.0, 20.0, 0.0, 10.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.96 MB
+----------------------------------------
+Iteration: 1
+Combination: psds
+Current Script: detect.py
+Execution Time: 17.31 seconds
+RAM Memory Usage: 1335.43 MB
+CPU Usage Per Core: [0.0, 9.1, 10.0, 0.0, 9.1, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 69.00 %
+GPU Memory Usage: 14.31 MB
+----------------------------------------
+Iteration: 1
+Combination: psds
+Current Script: predict.py
+Execution Time: 17.73 seconds
+RAM Memory Usage: 1355.86 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0]
+GPU Usage: 69.00 %
+GPU Memory Usage: 14.31 MB
+----------------------------------------
+Iteration: 1
+Combination: psdd
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 363.48 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 50.0, 0.0, 0.0, 0.0, 30.0, 100.0, 9.1, 0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 20.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: psdd
+Current Script: detect.py
+Execution Time: 19.21 seconds
+RAM Memory Usage: 1341.23 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 90.0, 0.0, 0.0, 0.0, 20.0, 0.0]
+GPU Usage: 70.00 %
+GPU Memory Usage: 14.68 MB
+----------------------------------------
+Iteration: 1
+Combination: psdd
+Current Script: detect.py
+Execution Time: 19.28 seconds
+RAM Memory Usage: 1340.39 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 11.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 60.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 71.00 %
+GPU Memory Usage: 14.68 MB
+----------------------------------------
+Iteration: 1
+Combination: psdd
+Current Script: predict.py
+Execution Time: 19.41 seconds
+RAM Memory Usage: 1362.80 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 71.00 %
+GPU Memory Usage: 14.68 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpp
+Current Script: detect.py
+Execution Time: 22.21 seconds
+RAM Memory Usage: 1335.91 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 18.2, 9.1, 0.0, 10.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpp
+Current Script: predict.py
+Execution Time: 22.46 seconds
+RAM Memory Usage: 1356.81 MB
+CPU Usage Per Core: [0.0, 100.0, 10.0, 0.0, 100.0, 10.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpp
+Current Script: predict.py
+Execution Time: 22.54 seconds
+RAM Memory Usage: 1371.07 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 63.6, 100.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpp
+Current Script: predict.py
+Execution Time: 22.59 seconds
+RAM Memory Usage: 1361.41 MB
+CPU Usage Per Core: [0.0, 30.0, 0.0, 20.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 30.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: pdps
+Current Script: speech.py
+Execution Time: 1.77 seconds
+RAM Memory Usage: 353.27 MB
+CPU Usage Per Core: [100.0, 100.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: pdps
+Current Script: detect.py
+Execution Time: 19.63 seconds
+RAM Memory Usage: 1340.82 MB
+CPU Usage Per Core: [81.8, 16.7, 20.0, 0.0, 20.0, 0.0, 100.0, 0.0, 100.0, 9.1, 20.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 20.0, 11.1, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 10.0, 18.2, 10.0, 10.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.16 MB
+----------------------------------------
+Iteration: 1
+Combination: pdps
+Current Script: predict.py
+Execution Time: 19.92 seconds
+RAM Memory Usage: 1354.36 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 18.2, 0.0, 9.1, 100.0, 9.1, 100.0, 0.0, 10.0, 11.1, 0.0, 20.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 27.3, 0.0, 30.0, 0.0, 0.0, 0.0, 10.0, 33.3, 0.0, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.16 MB
+----------------------------------------
+Iteration: 1
+Combination: pdps
+Current Script: predict.py
+Execution Time: 20.16 seconds
+RAM Memory Usage: 1356.86 MB
+CPU Usage Per Core: [0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 70.0, 16.7, 100.0, 0.0, 9.1, 9.1, 0.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 79.00 %
+GPU Memory Usage: 15.16 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpd
+Current Script: detect.py
+Execution Time: 21.42 seconds
+RAM Memory Usage: 1335.33 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 10.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpd
+Current Script: detect.py
+Execution Time: 21.52 seconds
+RAM Memory Usage: 1339.67 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 10.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpd
+Current Script: predict.py
+Execution Time: 22.05 seconds
+RAM Memory Usage: 1372.18 MB
+CPU Usage Per Core: [0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: pdpd
+Current Script: predict.py
+Execution Time: 22.12 seconds
+RAM Memory Usage: 1356.44 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 0.0, 18.2, 20.0, 20.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 0.0, 30.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 15.62 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsp
+Current Script: speech.py
+Execution Time: 1.73 seconds
+RAM Memory Usage: 353.27 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 100.0, 0.0, 100.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsp
+Current Script: detect.py
+Execution Time: 19.75 seconds
+RAM Memory Usage: 1336.38 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 18.2, 40.0, 30.0, 36.4, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 40.0, 0.0, 9.1, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 36.4, 36.4, 0.0, 0.0, 10.0, 100.0, 11.1, 30.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 15.20 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsp
+Current Script: predict.py
+Execution Time: 20.07 seconds
+RAM Memory Usage: 1355.43 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 22.2, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 45.5, 0.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.20 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsp
+Current Script: predict.py
+Execution Time: 20.33 seconds
+RAM Memory Usage: 1356.01 MB
+CPU Usage Per Core: [9.1, 0.0, 27.3, 0.0, 0.0, 0.0, 30.0, 9.1, 10.0, 20.0, 0.0, 30.0, 27.3, 9.1, 40.0, 20.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 40.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.20 MB
+----------------------------------------
+Iteration: 1
+Combination: pdss
+Current Script: speech.py
+Execution Time: 1.80 seconds
+RAM Memory Usage: 352.35 MB
+CPU Usage Per Core: [100.0, 80.0, 100.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 100.0, 0.0, 22.2, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 72.7, 0.0, 33.3, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: pdss
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 349.93 MB
+CPU Usage Per Core: [100.0, 100.0, 100.0, 10.0, 0.0, 0.0, 30.0, 9.1, 0.0, 0.0, 100.0, 0.0, 10.0, 80.0, 10.0, 0.0, 0.0, 0.0, 0.0, 11.1, 10.0, 18.2, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 90.9, 0.0, 16.7, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: pdss
+Current Script: detect.py
+Execution Time: 17.60 seconds
+RAM Memory Usage: 1334.51 MB
+CPU Usage Per Core: [77.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 81.8, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 66.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: pdss
+Current Script: predict.py
+Execution Time: 17.62 seconds
+RAM Memory Usage: 1355.95 MB
+CPU Usage Per Core: [77.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 81.8, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 66.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsd
+Current Script: speech.py
+Execution Time: 1.72 seconds
+RAM Memory Usage: 352.96 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 70.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 10.0, 0.0, 0.0, 100.0, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 100.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsd
+Current Script: detect.py
+Execution Time: 18.80 seconds
+RAM Memory Usage: 1337.55 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 100.0, 20.0, 10.0, 0.0, 50.0, 0.0, 66.7, 0.0, 10.0, 0.0, 9.1, 0.0, 100.0, 10.0, 10.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 100.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.70 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsd
+Current Script: detect.py
+Execution Time: 19.08 seconds
+RAM Memory Usage: 1338.23 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 16.7, 0.0, 100.0, 30.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 10.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.0, 0.0, 9.1, 11.1, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.70 MB
+----------------------------------------
+Iteration: 1
+Combination: pdsd
+Current Script: predict.py
+Execution Time: 19.23 seconds
+RAM Memory Usage: 1367.95 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 18.2, 0.0, 100.0, 30.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 10.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.0, 0.0, 9.1, 11.1, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.70 MB
+----------------------------------------
+Iteration: 1
+Combination: pddp
+Current Script: detect.py
+Execution Time: 21.38 seconds
+RAM Memory Usage: 1335.29 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 10.0, 100.0, 16.7, 0.0, 18.2, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.61 MB
+----------------------------------------
+Iteration: 1
+Combination: pddp
+Current Script: detect.py
+Execution Time: 21.46 seconds
+RAM Memory Usage: 1335.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 33.3, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 100.0, 10.0, 0.0, 60.0, 0.0, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.61 MB
+----------------------------------------
+Iteration: 1
+Combination: pddp
+Current Script: predict.py
+Execution Time: 21.69 seconds
+RAM Memory Usage: 1370.52 MB
+CPU Usage Per Core: [0.0, 9.1, 33.3, 27.3, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 30.0, 10.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.61 MB
+----------------------------------------
+Iteration: 1
+Combination: pddp
+Current Script: predict.py
+Execution Time: 21.81 seconds
+RAM Memory Usage: 1356.90 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 9.1, 0.0, 10.0, 88.9, 0.0, 40.0, 10.0, 70.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 86.00 %
+GPU Memory Usage: 15.61 MB
+----------------------------------------
+Iteration: 1
+Combination: pdds
+Current Script: speech.py
+Execution Time: 1.77 seconds
+RAM Memory Usage: 350.00 MB
+CPU Usage Per Core: [0.0, 10.0, 100.0, 0.0, 66.7, 0.0, 100.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 16.7, 100.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 9.1, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: pdds
+Current Script: detect.py
+Execution Time: 18.91 seconds
+RAM Memory Usage: 1334.82 MB
+CPU Usage Per Core: [10.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: pdds
+Current Script: detect.py
+Execution Time: 18.98 seconds
+RAM Memory Usage: 1337.60 MB
+CPU Usage Per Core: [0.0, 18.2, 0.0, 0.0, 18.2, 100.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 77.8, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: pdds
+Current Script: predict.py
+Execution Time: 19.18 seconds
+RAM Memory Usage: 1353.93 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 20.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 27.3, 10.0, 0.0, 0.0]
+GPU Usage: 72.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: pddd
+Current Script: detect.py
+Execution Time: 20.88 seconds
+RAM Memory Usage: 1341.08 MB
+CPU Usage Per Core: [0.0, 22.2, 77.8, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.3, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 30.0, 10.0, 0.0, 72.7, 0.0, 0.0, 0.0]
+GPU Usage: 83.00 %
+GPU Memory Usage: 15.13 MB
+----------------------------------------
+Iteration: 1
+Combination: pddd
+Current Script: detect.py
+Execution Time: 20.90 seconds
+RAM Memory Usage: 1337.60 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 77.8, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 22.2, 9.1, 0.0, 0.0]
+GPU Usage: 83.00 %
+GPU Memory Usage: 15.13 MB
+----------------------------------------
+Iteration: 1
+Combination: pddd
+Current Script: detect.py
+Execution Time: 20.93 seconds
+RAM Memory Usage: 1360.19 MB
+CPU Usage Per Core: [0.0, 0.0, 20.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 18.2, 0.0, 100.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.9, 70.0, 10.0, 0.0, 18.2, 0.0, 0.0, 0.0]
+GPU Usage: 83.00 %
+GPU Memory Usage: 15.13 MB
+----------------------------------------
+Iteration: 1
+Combination: pddd
+Current Script: predict.py
+Execution Time: 21.14 seconds
+RAM Memory Usage: 1353.80 MB
+CPU Usage Per Core: [90.0, 9.1, 0.0, 0.0, 0.0, 10.0, 25.0, 0.0, 9.1, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 9.1, 20.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 20.0, 0.0, 0.0]
+GPU Usage: 83.00 %
+GPU Memory Usage: 15.13 MB
+----------------------------------------
+Iteration: 1
+Combination: sppp
+Current Script: speech.py
+Execution Time: 1.78 seconds
+RAM Memory Usage: 345.89 MB
+CPU Usage Per Core: [20.0, 90.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 70.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sppp
+Current Script: predict.py
+Execution Time: 20.44 seconds
+RAM Memory Usage: 1368.18 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 18.2, 9.1, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 10.0, 40.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.66 MB
+----------------------------------------
+Iteration: 1
+Combination: sppp
+Current Script: predict.py
+Execution Time: 20.69 seconds
+RAM Memory Usage: 1362.64 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 80.0, 40.0, 20.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.66 MB
+----------------------------------------
+Iteration: 1
+Combination: sppp
+Current Script: predict.py
+Execution Time: 20.69 seconds
+RAM Memory Usage: 1387.80 MB
+CPU Usage Per Core: [10.0, 9.1, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 63.6, 50.0, 45.5, 50.0, 0.0, 0.0, 10.0, 10.0, 9.1, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 20.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.66 MB
+----------------------------------------
+Iteration: 1
+Combination: spps
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 354.00 MB
+CPU Usage Per Core: [100.0, 100.0, 0.0, 33.3, 22.2, 0.0, 100.0, 63.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 18.2, 11.1, 0.0, 100.0, 10.0, 100.0]
+GPU Usage: 7.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: spps
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 350.66 MB
+CPU Usage Per Core: [100.0, 100.0, 0.0, 40.0, 22.2, 0.0, 100.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 18.2, 10.0, 0.0, 100.0, 10.0, 100.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: spps
+Current Script: predict.py
+Execution Time: 18.37 seconds
+RAM Memory Usage: 1374.61 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: spps
+Current Script: predict.py
+Execution Time: 18.51 seconds
+RAM Memory Usage: 1367.34 MB
+CPU Usage Per Core: [11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: sppd
+Current Script: speech.py
+Execution Time: 1.77 seconds
+RAM Memory Usage: 353.51 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 0.0, 0.0, 20.0, 100.0, 100.0, 10.0, 9.1, 36.4, 10.0, 0.0, 0.0, 0.0, 18.2, 9.1, 0.0, 18.2, 100.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 11.1, 50.0, 100.0, 0.0, 20.0, 0.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: sppd
+Current Script: detect.py
+Execution Time: 19.80 seconds
+RAM Memory Usage: 1349.00 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: sppd
+Current Script: predict.py
+Execution Time: 19.99 seconds
+RAM Memory Usage: 1357.82 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 44.4, 33.3, 0.0, 0.0, 9.1, 0.0, 9.1, 22.2, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: sppd
+Current Script: predict.py
+Execution Time: 20.18 seconds
+RAM Memory Usage: 1353.80 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 80.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: spsp
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 352.32 MB
+CPU Usage Per Core: [0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 90.0, 0.0, 0.0, 0.0, 9.1, 100.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spsp
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 347.93 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 16.7, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spsp
+Current Script: predict.py
+Execution Time: 18.42 seconds
+RAM Memory Usage: 1362.56 MB
+CPU Usage Per Core: [100.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: spsp
+Current Script: predict.py
+Execution Time: 18.52 seconds
+RAM Memory Usage: 1354.57 MB
+CPU Usage Per Core: [60.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 27.3, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 62.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: spss
+Current Script: speech.py
+Execution Time: 1.82 seconds
+RAM Memory Usage: 352.72 MB
+CPU Usage Per Core: [72.7, 0.0, 100.0, 0.0, 0.0, 63.6, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 22.2, 30.0, 0.0, 100.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 9.1, 9.1, 40.0, 100.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spss
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 353.72 MB
+CPU Usage Per Core: [81.8, 10.0, 100.0, 10.0, 0.0, 63.6, 0.0, 0.0, 0.0, 88.9, 0.0, 0.0, 20.0, 18.2, 0.0, 100.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 11.1, 10.0, 0.0, 0.0, 40.0, 100.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spss
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 353.25 MB
+CPU Usage Per Core: [81.8, 10.0, 100.0, 10.0, 0.0, 63.6, 0.0, 0.0, 0.0, 88.9, 0.0, 0.0, 20.0, 18.2, 0.0, 100.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 11.1, 10.0, 0.0, 0.0, 40.0, 100.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spss
+Current Script: predict.py
+Execution Time: 16.85 seconds
+RAM Memory Usage: 1355.74 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 8.3, 90.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 37.00 %
+GPU Memory Usage: 13.88 MB
+----------------------------------------
+Iteration: 1
+Combination: spsd
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.06 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 63.6, 55.6, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 40.0, 0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0]
+GPU Usage: 25.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: spsd
+Current Script: speech.py
+Execution Time: 2.13 seconds
+RAM Memory Usage: 364.10 MB
+CPU Usage Per Core: [10.0, 11.1, 9.1, 63.6, 66.7, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 18.2, 27.3, 0.0, 40.0, 10.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 27.3]
+GPU Usage: 25.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: spsd
+Current Script: detect.py
+Execution Time: 17.27 seconds
+RAM Memory Usage: 1337.00 MB
+CPU Usage Per Core: [9.1, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 16.7, 10.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 9.1, 0.0, 18.2, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: spsd
+Current Script: predict.py
+Execution Time: 17.97 seconds
+RAM Memory Usage: 1354.00 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: spdp
+Current Script: speech.py
+Execution Time: 1.81 seconds
+RAM Memory Usage: 353.41 MB
+CPU Usage Per Core: [10.0, 9.1, 100.0, 30.0, 100.0, 100.0, 0.0, 20.0, 20.0, 50.0, 10.0, 33.3, 0.0, 36.4, 10.0, 0.0, 18.2, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 22.2, 20.0, 66.7, 10.0, 36.4, 0.0, 10.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spdp
+Current Script: detect.py
+Execution Time: 19.62 seconds
+RAM Memory Usage: 1335.46 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 10.0, 0.0, 100.0, 0.0, 100.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 78.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: spdp
+Current Script: predict.py
+Execution Time: 19.74 seconds
+RAM Memory Usage: 1353.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 58.3, 0.0, 20.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 88.9, 45.5, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: spdp
+Current Script: predict.py
+Execution Time: 19.82 seconds
+RAM Memory Usage: 1365.70 MB
+CPU Usage Per Core: [10.0, 20.0, 40.0, 0.0, 0.0, 0.0, 40.0, 9.1, 50.0, 18.2, 0.0, 16.7, 10.0, 22.2, 40.0, 0.0, 9.1, 9.1, 40.0, 20.0, 18.2, 9.1, 0.0, 9.1, 0.0, 44.4, 27.3, 50.0, 30.0, 0.0, 9.1, 10.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: spds
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 349.55 MB
+CPU Usage Per Core: [0.0, 54.5, 20.0, 30.0, 10.0, 0.0, 36.4, 0.0, 100.0, 40.0, 100.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 16.7, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 25.0, 30.0, 100.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spds
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 363.46 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 40.0, 0.0, 20.0, 10.0, 0.0, 100.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 33.3, 0.0, 16.7, 9.1, 0.0, 0.0, 10.0, 90.0, 0.0, 0.0, 100.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spds
+Current Script: detect.py
+Execution Time: 17.26 seconds
+RAM Memory Usage: 1336.12 MB
+CPU Usage Per Core: [0.0, 18.2, 55.6, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: spds
+Current Script: predict.py
+Execution Time: 17.74 seconds
+RAM Memory Usage: 1356.67 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: spdd
+Current Script: speech.py
+Execution Time: 2.07 seconds
+RAM Memory Usage: 364.08 MB
+CPU Usage Per Core: [100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 20.0, 18.2, 10.0, 20.0, 90.9, 20.0, 0.0, 0.0, 0.0, 0.0, 66.7, 0.0, 100.0, 10.0, 20.0, 18.2, 11.1, 100.0, 40.0, 0.0, 0.0, 20.0, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: spdd
+Current Script: detect.py
+Execution Time: 18.69 seconds
+RAM Memory Usage: 1333.33 MB
+CPU Usage Per Core: [0.0, 100.0, 100.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.71 MB
+----------------------------------------
+Iteration: 1
+Combination: spdd
+Current Script: detect.py
+Execution Time: 18.98 seconds
+RAM Memory Usage: 1364.23 MB
+CPU Usage Per Core: [0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 80.0, 0.0, 0.0, 10.0, 100.0, 0.0, 0.0, 11.1, 0.0, 10.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.71 MB
+----------------------------------------
+Iteration: 1
+Combination: spdd
+Current Script: predict.py
+Execution Time: 19.07 seconds
+RAM Memory Usage: 1358.05 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 77.8, 10.0, 0.0, 0.0, 27.3, 0.0, 20.0, 10.0, 83.3, 0.0, 11.1, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.71 MB
+----------------------------------------
+Iteration: 1
+Combination: sspp
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 352.96 MB
+CPU Usage Per Core: [0.0, 100.0, 100.0, 9.1, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sspp
+Current Script: speech.py
+Execution Time: 1.88 seconds
+RAM Memory Usage: 349.07 MB
+CPU Usage Per Core: [9.1, 100.0, 100.0, 10.0, 9.1, 10.0, 0.0, 100.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sspp
+Current Script: predict.py
+Execution Time: 18.15 seconds
+RAM Memory Usage: 1371.16 MB
+CPU Usage Per Core: [10.0, 10.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 18.2, 16.7, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 27.3, 10.0, 18.2, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: sspp
+Current Script: predict.py
+Execution Time: 18.34 seconds
+RAM Memory Usage: 1357.56 MB
+CPU Usage Per Core: [9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 40.0, 9.1, 0.0, 0.0, 10.0, 0.0, 70.0, 30.0, 22.2, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 9.1, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: ssps
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 353.91 MB
+CPU Usage Per Core: [11.1, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 70.0, 0.0, 36.4, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 30.0, 20.0, 0.0, 30.0, 100.0, 0.0, 100.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssps
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 351.80 MB
+CPU Usage Per Core: [10.0, 100.0, 10.0, 0.0, 0.0, 0.0, 22.2, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 50.0, 0.0, 40.0, 0.0, 0.0, 10.0, 100.0, 18.2, 0.0, 0.0, 11.1, 30.0, 11.1, 0.0, 18.2, 100.0, 0.0, 100.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssps
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 363.11 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 72.7, 0.0, 0.0, 0.0, 0.0, 80.0, 50.0, 10.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 63.6, 10.0, 0.0, 9.1, 27.3, 0.0, 18.2, 27.3]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssps
+Current Script: predict.py
+Execution Time: 16.79 seconds
+RAM Memory Usage: 1366.39 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 9.1, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 28.00 %
+GPU Memory Usage: 13.85 MB
+----------------------------------------
+Iteration: 1
+Combination: sspd
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 353.00 MB
+CPU Usage Per Core: [100.0, 0.0, 45.5, 30.0, 9.1, 22.2, 10.0, 0.0, 10.0, 9.1, 0.0, 80.0, 30.0, 0.0, 45.5, 100.0, 0.0, 9.1, 54.5, 0.0, 9.1, 36.4, 40.0, 33.3, 0.0, 10.0, 45.5, 22.2, 11.1, 100.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sspd
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 352.93 MB
+CPU Usage Per Core: [100.0, 0.0, 45.5, 30.0, 9.1, 22.2, 10.0, 0.0, 10.0, 9.1, 0.0, 80.0, 30.0, 0.0, 45.5, 100.0, 0.0, 9.1, 54.5, 0.0, 9.1, 36.4, 40.0, 33.3, 0.0, 10.0, 45.5, 22.2, 11.1, 100.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sspd
+Current Script: detect.py
+Execution Time: 17.29 seconds
+RAM Memory Usage: 1342.98 MB
+CPU Usage Per Core: [81.8, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: sspd
+Current Script: predict.py
+Execution Time: 17.94 seconds
+RAM Memory Usage: 1370.91 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 20.0, 0.0, 0.0, 0.0, 66.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1]
+GPU Usage: 58.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: sssp
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 353.33 MB
+CPU Usage Per Core: [10.0, 0.0, 100.0, 0.0, 88.9, 100.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssp
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 353.39 MB
+CPU Usage Per Core: [10.0, 0.0, 100.0, 0.0, 80.0, 100.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssp
+Current Script: speech.py
+Execution Time: 2.12 seconds
+RAM Memory Usage: 363.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 100.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssp
+Current Script: predict.py
+Execution Time: 16.59 seconds
+RAM Memory Usage: 1356.95 MB
+CPU Usage Per Core: [100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0]
+GPU Usage: 28.00 %
+GPU Memory Usage: 13.85 MB
+----------------------------------------
+Iteration: 1
+Combination: ssss
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 353.99 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 100.0, 72.7, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 9.1, 0.0, 18.2, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssss
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 350.04 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 100.0, 72.7, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 9.1, 0.0, 18.2, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssss
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 348.28 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 100.0, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 100.0, 72.7, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssss
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.86 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 18.2, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 18.2, 0.0, 0.0, 9.1, 0.0, 9.1]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssd
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 363.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 12.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssd
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.17 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 11.1, 10.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 12.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssd
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 364.39 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 12.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: sssd
+Current Script: detect.py
+Execution Time: 15.38 seconds
+RAM Memory Usage: 1336.01 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 26.00 %
+GPU Memory Usage: 13.37 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdp
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 352.98 MB
+CPU Usage Per Core: [10.0, 9.1, 22.2, 22.2, 30.0, 100.0, 0.0, 100.0, 9.1, 100.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 30.0, 22.2, 22.2, 0.0, 0.0, 22.2, 10.0, 0.0, 10.0, 22.2, 0.0, 0.0, 0.0, 27.3, 0.0, 70.0]
+GPU Usage: 7.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdp
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 350.30 MB
+CPU Usage Per Core: [9.1, 9.1, 22.2, 20.0, 27.3, 100.0, 0.0, 100.0, 9.1, 100.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 30.0, 20.0, 22.2, 0.0, 0.0, 22.2, 10.0, 0.0, 10.0, 22.2, 0.0, 0.0, 0.0, 30.0, 0.0, 70.0]
+GPU Usage: 7.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdp
+Current Script: detect.py
+Execution Time: 17.19 seconds
+RAM Memory Usage: 1334.36 MB
+CPU Usage Per Core: [0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 70.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdp
+Current Script: predict.py
+Execution Time: 17.62 seconds
+RAM Memory Usage: 1363.84 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: ssds
+Current Script: speech.py
+Execution Time: 1.82 seconds
+RAM Memory Usage: 349.53 MB
+CPU Usage Per Core: [100.0, 9.1, 18.2, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 9.1, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 100.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssds
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 352.89 MB
+CPU Usage Per Core: [100.0, 9.1, 20.0, 0.0, 0.0, 0.0, 77.8, 0.0, 0.0, 100.0, 9.1, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 30.0, 20.0, 0.0, 100.0, 10.0, 0.0, 0.0, 100.0, 10.0, 10.0, 100.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssds
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 363.46 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 10.0, 0.0, 18.2, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.94 MB
+----------------------------------------
+Iteration: 1
+Combination: ssds
+Current Script: detect.py
+Execution Time: 15.80 seconds
+RAM Memory Usage: 1366.29 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 37.00 %
+GPU Memory Usage: 13.39 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdd
+Current Script: speech.py
+Execution Time: 1.75 seconds
+RAM Memory Usage: 348.32 MB
+CPU Usage Per Core: [9.1, 100.0, 20.0, 9.1, 0.0, 90.0, 100.0, 10.0, 0.0, 0.0, 0.0, 70.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 15.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdd
+Current Script: speech.py
+Execution Time: 2.07 seconds
+RAM Memory Usage: 364.96 MB
+CPU Usage Per Core: [9.1, 10.0, 10.0, 0.0, 0.0, 30.0, 0.0, 10.0, 9.1, 60.0, 0.0, 0.0, 100.0, 90.0, 10.0, 18.2, 0.0, 0.0, 33.3, 9.1, 0.0, 10.0, 0.0, 22.2, 22.2, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 18.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdd
+Current Script: detect.py
+Execution Time: 17.05 seconds
+RAM Memory Usage: 1336.34 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 63.00 %
+GPU Memory Usage: 13.81 MB
+----------------------------------------
+Iteration: 1
+Combination: ssdd
+Current Script: detect.py
+Execution Time: 17.28 seconds
+RAM Memory Usage: 1335.60 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 63.00 %
+GPU Memory Usage: 13.81 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpp
+Current Script: speech.py
+Execution Time: 2.10 seconds
+RAM Memory Usage: 365.64 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 40.0, 0.0, 10.0, 0.0, 10.0, 0.0, 66.7, 0.0, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 8.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpp
+Current Script: detect.py
+Execution Time: 19.00 seconds
+RAM Memory Usage: 1349.87 MB
+CPU Usage Per Core: [100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 10.0, 9.1, 9.1, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpp
+Current Script: predict.py
+Execution Time: 19.75 seconds
+RAM Memory Usage: 1359.78 MB
+CPU Usage Per Core: [100.0, 80.0, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpp
+Current Script: predict.py
+Execution Time: 19.78 seconds
+RAM Memory Usage: 1356.45 MB
+CPU Usage Per Core: [72.7, 12.5, 10.0, 33.3, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 18.2, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 60.0, 40.0, 10.0, 0.0, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: sdps
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 352.98 MB
+CPU Usage Per Core: [100.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 10.0, 80.0, 9.1, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: sdps
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.87 MB
+CPU Usage Per Core: [0.0, 0.0, 11.1, 81.8, 0.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.95 MB
+----------------------------------------
+Iteration: 1
+Combination: sdps
+Current Script: detect.py
+Execution Time: 17.50 seconds
+RAM Memory Usage: 1344.71 MB
+CPU Usage Per Core: [16.7, 0.0, 0.0, 20.0, 8.3, 9.1, 0.0, 0.0, 16.7, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 20.0, 9.1, 10.0, 18.2, 0.0, 9.1, 11.1, 20.0, 50.0, 10.0, 100.0, 11.1, 0.0, 10.0, 10.0, 90.0, 0.0]
+GPU Usage: 67.00 %
+GPU Memory Usage: 14.31 MB
+----------------------------------------
+Iteration: 1
+Combination: sdps
+Current Script: predict.py
+Execution Time: 18.13 seconds
+RAM Memory Usage: 1354.07 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 10.0, 9.1, 54.5, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 67.00 %
+GPU Memory Usage: 14.30 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpd
+Current Script: speech.py
+Execution Time: 1.82 seconds
+RAM Memory Usage: 369.96 MB
+CPU Usage Per Core: [10.0, 20.0, 0.0, 0.0, 55.6, 60.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 10.0, 0.0, 0.0, 80.0, 0.0, 9.1, 18.2, 0.0, 100.0, 60.0]
+GPU Usage: 18.00 %
+GPU Memory Usage: 12.93 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpd
+Current Script: detect.py
+Execution Time: 18.97 seconds
+RAM Memory Usage: 1343.58 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 10.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpd
+Current Script: detect.py
+Execution Time: 19.09 seconds
+RAM Memory Usage: 1336.44 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sdpd
+Current Script: predict.py
+Execution Time: 19.15 seconds
+RAM Memory Usage: 1375.82 MB
+CPU Usage Per Core: [0.0, 9.1, 10.0, 0.0, 100.0, 12.5, 70.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsp
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 364.50 MB
+CPU Usage Per Core: [10.0, 50.0, 0.0, 30.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 20.0, 0.0, 20.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsp
+Current Script: speech.py
+Execution Time: 2.11 seconds
+RAM Memory Usage: 373.06 MB
+CPU Usage Per Core: [9.1, 70.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 11.1, 10.0, 10.0, 88.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 91.7, 10.0, 22.2, 0.0, 22.2, 20.0, 18.2, 0.0, 0.0, 0.0, 0.0, 10.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsp
+Current Script: detect.py
+Execution Time: 17.18 seconds
+RAM Memory Usage: 1336.98 MB
+CPU Usage Per Core: [0.0, 10.0, 100.0, 0.0, 0.0, 20.0, 10.0, 0.0, 100.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsp
+Current Script: predict.py
+Execution Time: 17.79 seconds
+RAM Memory Usage: 1355.27 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 60.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: sdss
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 348.27 MB
+CPU Usage Per Core: [0.0, 77.8, 100.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 9.1, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 10.0, 11.1, 10.0, 100.0, 18.2, 0.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdss
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 351.36 MB
+CPU Usage Per Core: [0.0, 77.8, 100.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 9.1, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 10.0, 10.0, 9.1, 100.0, 16.7, 0.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdss
+Current Script: speech.py
+Execution Time: 2.08 seconds
+RAM Memory Usage: 362.64 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 11.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 0.0, 80.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdss
+Current Script: detect.py
+Execution Time: 15.59 seconds
+RAM Memory Usage: 1338.33 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 25.00 %
+GPU Memory Usage: 13.35 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsd
+Current Script: speech.py
+Execution Time: 2.02 seconds
+RAM Memory Usage: 363.96 MB
+CPU Usage Per Core: [100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsd
+Current Script: speech.py
+Execution Time: 2.07 seconds
+RAM Memory Usage: 363.52 MB
+CPU Usage Per Core: [72.7, 10.0, 10.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 0.0, 0.0, 0.0, 9.1, 18.2, 0.0, 9.1, 10.0, 20.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsd
+Current Script: detect.py
+Execution Time: 16.80 seconds
+RAM Memory Usage: 1367.44 MB
+CPU Usage Per Core: [9.1, 0.0, 18.2, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 81.8, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 30.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: sdsd
+Current Script: detect.py
+Execution Time: 16.85 seconds
+RAM Memory Usage: 1338.51 MB
+CPU Usage Per Core: [10.0, 10.0, 25.0, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 72.7, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 20.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: sddp
+Current Script: speech.py
+Execution Time: 1.74 seconds
+RAM Memory Usage: 349.95 MB
+CPU Usage Per Core: [9.1, 0.0, 70.0, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 33.3, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 100.0, 100.0, 9.1, 0.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sddp
+Current Script: detect.py
+Execution Time: 18.70 seconds
+RAM Memory Usage: 1335.62 MB
+CPU Usage Per Core: [0.0, 16.7, 0.0, 9.1, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 75.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 30.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sddp
+Current Script: detect.py
+Execution Time: 18.82 seconds
+RAM Memory Usage: 1336.98 MB
+CPU Usage Per Core: [9.1, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sddp
+Current Script: predict.py
+Execution Time: 19.05 seconds
+RAM Memory Usage: 1356.38 MB
+CPU Usage Per Core: [30.0, 20.0, 0.0, 40.0, 80.0, 0.0, 0.0, 30.0, 50.0, 0.0, 60.0, 0.0, 0.0, 0.0, 11.1, 0.0, 11.1, 0.0, 10.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 30.0, 10.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: sdds
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 363.73 MB
+CPU Usage Per Core: [0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdds
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 363.38 MB
+CPU Usage Per Core: [0.0, 36.4, 20.0, 10.0, 100.0, 30.0, 9.1, 0.0, 30.0, 9.1, 0.0, 0.0, 0.0, 90.9, 10.0, 30.0, 30.0, 0.0, 10.0, 10.0, 0.0, 30.0, 10.0, 90.9, 16.7, 18.2, 30.0, 25.0, 27.3, 0.0, 40.0, 70.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sdds
+Current Script: detect.py
+Execution Time: 16.90 seconds
+RAM Memory Usage: 1339.64 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 20.0, 0.0, 20.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 57.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: sdds
+Current Script: detect.py
+Execution Time: 16.92 seconds
+RAM Memory Usage: 1339.03 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 18.2, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 11.1, 16.7, 10.0, 0.0, 10.0, 30.0, 0.0, 50.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 57.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: sddd
+Current Script: speech.py
+Execution Time: 1.71 seconds
+RAM Memory Usage: 350.52 MB
+CPU Usage Per Core: [54.5, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: sddd
+Current Script: detect.py
+Execution Time: 18.35 seconds
+RAM Memory Usage: 1360.00 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 0.0, 0.0, 40.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 66.7, 0.0, 0.0, 0.0]
+GPU Usage: 71.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: sddd
+Current Script: detect.py
+Execution Time: 18.50 seconds
+RAM Memory Usage: 1350.05 MB
+CPU Usage Per Core: [18.2, 36.4, 9.1, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 63.6, 9.1, 0.0, 9.1, 0.0, 0.0, 9.1]
+GPU Usage: 72.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: sddd
+Current Script: detect.py
+Execution Time: 18.53 seconds
+RAM Memory Usage: 1340.29 MB
+CPU Usage Per Core: [18.2, 0.0, 9.1, 9.1, 0.0, 0.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 9.1, 66.7, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 72.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: dppp
+Current Script: detect.py
+Execution Time: 22.11 seconds
+RAM Memory Usage: 1336.06 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 27.3, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 9.1, 9.1]
+GPU Usage: 86.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: dppp
+Current Script: predict.py
+Execution Time: 22.70 seconds
+RAM Memory Usage: 1382.42 MB
+CPU Usage Per Core: [16.7, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 72.7, 0.0, 0.0, 20.0, 72.7, 40.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 63.6, 90.0, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: dppp
+Current Script: predict.py
+Execution Time: 22.71 seconds
+RAM Memory Usage: 1362.46 MB
+CPU Usage Per Core: [10.0, 0.0, 80.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 30.0, 0.0, 0.0, 20.0, 27.3, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 63.6, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 88.9, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: dppp
+Current Script: predict.py
+Execution Time: 22.79 seconds
+RAM Memory Usage: 1357.78 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 10.0, 9.1, 10.0, 0.0, 100.0, 11.1, 0.0, 9.1]
+GPU Usage: 87.00 %
+GPU Memory Usage: 16.07 MB
+----------------------------------------
+Iteration: 1
+Combination: dpps
+Current Script: speech.py
+Execution Time: 1.71 seconds
+RAM Memory Usage: 348.09 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 100.0, 100.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpps
+Current Script: detect.py
+Execution Time: 19.66 seconds
+RAM Memory Usage: 1336.83 MB
+CPU Usage Per Core: [10.0, 0.0, 18.2, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 81.8, 0.0, 0.0, 0.0]
+GPU Usage: 77.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dpps
+Current Script: predict.py
+Execution Time: 19.73 seconds
+RAM Memory Usage: 1355.47 MB
+CPU Usage Per Core: [40.0, 30.0, 66.7, 0.0, 11.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 27.3, 36.4, 45.5, 0.0, 33.3, 0.0, 9.1, 41.7, 36.4, 10.0, 18.2, 9.1, 18.2, 0.0, 10.0, 0.0, 30.0]
+GPU Usage: 77.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dpps
+Current Script: predict.py
+Execution Time: 19.76 seconds
+RAM Memory Usage: 1354.88 MB
+CPU Usage Per Core: [27.3, 27.3, 33.3, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 70.0, 9.1, 20.0, 27.3, 27.3, 0.0, 20.0, 0.0, 18.2, 27.3, 22.2, 10.0, 18.2, 10.0, 10.0, 0.0, 0.0, 0.0, 20.0]
+GPU Usage: 77.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dppd
+Current Script: detect.py
+Execution Time: 21.23 seconds
+RAM Memory Usage: 1342.58 MB
+CPU Usage Per Core: [100.0, 18.2, 100.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 45.5, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dppd
+Current Script: detect.py
+Execution Time: 21.30 seconds
+RAM Memory Usage: 1336.44 MB
+CPU Usage Per Core: [100.0, 9.1, 100.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 60.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dppd
+Current Script: predict.py
+Execution Time: 21.56 seconds
+RAM Memory Usage: 1355.36 MB
+CPU Usage Per Core: [100.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 20.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dppd
+Current Script: predict.py
+Execution Time: 21.78 seconds
+RAM Memory Usage: 1374.75 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 10.0, 88.9, 9.1, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 87.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsp
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 353.30 MB
+CPU Usage Per Core: [70.0, 0.0, 100.0, 0.0, 55.6, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 54.5, 20.0, 0.0, 0.0, 27.3, 100.0, 0.0, 0.0, 0.0, 40.0, 0.0, 16.7, 20.0, 0.0, 0.0, 0.0, 50.0, 18.2, 0.0, 0.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsp
+Current Script: detect.py
+Execution Time: 19.72 seconds
+RAM Memory Usage: 1334.33 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 33.3, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsp
+Current Script: predict.py
+Execution Time: 19.81 seconds
+RAM Memory Usage: 1356.89 MB
+CPU Usage Per Core: [10.0, 9.1, 9.1, 27.3, 0.0, 22.2, 40.0, 9.1, 9.1, 36.4, 0.0, 20.0, 0.0, 18.2, 22.2, 18.2, 20.0, 0.0, 0.0, 0.0, 30.0, 0.0, 30.0, 10.0, 30.0, 0.0, 80.0, 0.0, 0.0, 9.1, 9.1, 10.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsp
+Current Script: predict.py
+Execution Time: 19.84 seconds
+RAM Memory Usage: 1370.07 MB
+CPU Usage Per Core: [10.0, 10.0, 10.0, 27.3, 0.0, 22.2, 40.0, 10.0, 9.1, 36.4, 0.0, 20.0, 0.0, 9.1, 22.2, 18.2, 20.0, 0.0, 0.0, 0.0, 30.0, 0.0, 20.0, 20.0, 30.0, 0.0, 80.0, 0.0, 0.0, 9.1, 9.1, 10.0]
+GPU Usage: 77.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dpss
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 348.13 MB
+CPU Usage Per Core: [22.2, 10.0, 100.0, 0.0, 100.0, 0.0, 44.4, 0.0, 0.0, 100.0, 0.0, 55.6, 0.0, 45.5, 10.0, 10.0, 0.0, 9.1, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpss
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 352.78 MB
+CPU Usage Per Core: [11.1, 10.0, 100.0, 0.0, 100.0, 0.0, 40.0, 0.0, 0.0, 100.0, 0.0, 63.6, 0.0, 54.5, 10.0, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpss
+Current Script: detect.py
+Execution Time: 16.92 seconds
+RAM Memory Usage: 1336.53 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 80.0, 10.0, 11.1, 10.0, 0.0, 0.0, 10.0, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 11.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dpss
+Current Script: predict.py
+Execution Time: 17.57 seconds
+RAM Memory Usage: 1354.42 MB
+CPU Usage Per Core: [0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 20.0, 22.2, 0.0, 0.0, 10.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 61.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsd
+Current Script: speech.py
+Execution Time: 1.82 seconds
+RAM Memory Usage: 363.77 MB
+CPU Usage Per Core: [0.0, 9.1, 100.0, 0.0, 100.0, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 9.1, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsd
+Current Script: detect.py
+Execution Time: 18.79 seconds
+RAM Memory Usage: 1337.31 MB
+CPU Usage Per Core: [30.0, 100.0, 0.0, 10.0, 90.0, 20.0, 0.0, 0.0, 0.0, 30.0, 0.0, 33.3, 27.3, 9.1, 0.0, 0.0, 10.0, 0.0, 9.1, 0.0, 0.0, 0.0, 18.2, 33.3, 10.0, 0.0, 18.2, 0.0, 20.0, 30.0, 45.5, 100.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsd
+Current Script: detect.py
+Execution Time: 18.99 seconds
+RAM Memory Usage: 1339.94 MB
+CPU Usage Per Core: [10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 9.1, 0.0, 9.1, 0.0, 100.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpsd
+Current Script: predict.py
+Execution Time: 19.17 seconds
+RAM Memory Usage: 1358.11 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 9.1, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 60.0, 0.0, 0.0, 0.0, 70.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdp
+Current Script: detect.py
+Execution Time: 21.36 seconds
+RAM Memory Usage: 1337.52 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdp
+Current Script: detect.py
+Execution Time: 21.44 seconds
+RAM Memory Usage: 1364.90 MB
+CPU Usage Per Core: [0.0, 20.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdp
+Current Script: predict.py
+Execution Time: 21.59 seconds
+RAM Memory Usage: 1352.16 MB
+CPU Usage Per Core: [0.0, 0.0, 27.3, 70.0, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 90.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 0.0, 9.1, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdp
+Current Script: predict.py
+Execution Time: 21.82 seconds
+RAM Memory Usage: 1374.52 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: dpds
+Current Script: speech.py
+Execution Time: 1.76 seconds
+RAM Memory Usage: 346.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 88.9, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 100.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dpds
+Current Script: detect.py
+Execution Time: 18.74 seconds
+RAM Memory Usage: 1336.36 MB
+CPU Usage Per Core: [9.1, 9.1, 0.0, 100.0, 10.0, 0.0, 9.1, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpds
+Current Script: detect.py
+Execution Time: 18.77 seconds
+RAM Memory Usage: 1334.41 MB
+CPU Usage Per Core: [0.0, 9.1, 9.1, 88.9, 10.0, 0.0, 0.0, 0.0, 11.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpds
+Current Script: predict.py
+Execution Time: 19.19 seconds
+RAM Memory Usage: 1361.38 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 75.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdd
+Current Script: detect.py
+Execution Time: 20.45 seconds
+RAM Memory Usage: 1334.23 MB
+CPU Usage Per Core: [10.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.11 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdd
+Current Script: predict.py
+Execution Time: 20.78 seconds
+RAM Memory Usage: 1356.36 MB
+CPU Usage Per Core: [18.2, 0.0, 0.0, 100.0, 100.0, 0.0, 44.4, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 20.0, 80.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.11 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdd
+Current Script: detect.py
+Execution Time: 20.82 seconds
+RAM Memory Usage: 1359.54 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 11.1, 20.0, 0.0, 0.0, 0.0, 0.0, 80.0, 40.0, 0.0, 30.0, 30.0, 30.0, 77.8, 0.0, 40.0, 30.0, 0.0, 30.0, 10.0, 0.0, 0.0, 10.0, 30.0, 0.0, 22.2, 0.0, 30.0, 22.2, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.11 MB
+----------------------------------------
+Iteration: 1
+Combination: dpdd
+Current Script: detect.py
+Execution Time: 20.96 seconds
+RAM Memory Usage: 1333.17 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 27.3, 11.1, 27.3, 0.0, 0.0, 9.1, 0.0, 10.0, 10.0, 0.0, 12.5, 9.1, 0.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.11 MB
+----------------------------------------
+Iteration: 1
+Combination: dspp
+Current Script: speech.py
+Execution Time: 1.72 seconds
+RAM Memory Usage: 349.85 MB
+CPU Usage Per Core: [100.0, 60.0, 9.1, 27.3, 100.0, 100.0, 100.0, 22.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 2.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dspp
+Current Script: detect.py
+Execution Time: 19.35 seconds
+RAM Memory Usage: 1333.61 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 10.0, 100.0, 0.0, 9.1, 10.0, 100.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 16.7, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dspp
+Current Script: predict.py
+Execution Time: 19.65 seconds
+RAM Memory Usage: 1358.49 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dspp
+Current Script: predict.py
+Execution Time: 19.80 seconds
+RAM Memory Usage: 1373.12 MB
+CPU Usage Per Core: [16.7, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 15.17 MB
+----------------------------------------
+Iteration: 1
+Combination: dsps
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 346.04 MB
+CPU Usage Per Core: [50.0, 45.5, 0.0, 100.0, 0.0, 20.0, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 9.1, 0.0, 9.1, 0.0, 100.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0, 11.1, 16.7, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsps
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 376.13 MB
+CPU Usage Per Core: [10.0, 0.0, 10.0, 100.0, 0.0, 9.1, 0.0, 55.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 22.2, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsps
+Current Script: detect.py
+Execution Time: 17.18 seconds
+RAM Memory Usage: 1336.78 MB
+CPU Usage Per Core: [0.0, 9.1, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 9.1, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dsps
+Current Script: predict.py
+Execution Time: 17.68 seconds
+RAM Memory Usage: 1356.62 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dspd
+Current Script: speech.py
+Execution Time: 1.74 seconds
+RAM Memory Usage: 349.64 MB
+CPU Usage Per Core: [0.0, 0.0, 20.0, 100.0, 0.0, 100.0, 60.0, 0.0, 0.0, 0.0, 0.0, 90.0, 10.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0]
+GPU Usage: 1.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dspd
+Current Script: detect.py
+Execution Time: 18.79 seconds
+RAM Memory Usage: 1332.02 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 55.6, 50.0, 27.3, 0.0, 0.0, 0.0, 0.0, 54.5, 11.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 44.4, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dspd
+Current Script: detect.py
+Execution Time: 18.80 seconds
+RAM Memory Usage: 1352.66 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 44.4, 40.0, 30.0, 0.0, 0.0, 0.0, 0.0, 70.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 10.0, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dspd
+Current Script: predict.py
+Execution Time: 19.18 seconds
+RAM Memory Usage: 1355.68 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 66.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dssp
+Current Script: speech.py
+Execution Time: 1.84 seconds
+RAM Memory Usage: 350.05 MB
+CPU Usage Per Core: [10.0, 0.0, 9.1, 10.0, 0.0, 100.0, 10.0, 0.0, 0.0, 100.0, 0.0, 10.0, 50.0, 0.0, 0.0, 0.0, 9.1, 0.0, 88.9, 0.0, 18.2, 0.0, 10.0, 0.0, 18.2, 0.0, 60.0, 0.0, 0.0, 100.0, 0.0, 100.0]
+GPU Usage: 6.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dssp
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 363.46 MB
+CPU Usage Per Core: [0.0, 0.0, 27.3, 9.1, 18.2, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 9.1, 0.0, 0.0, 63.6, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 10.0, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dssp
+Current Script: detect.py
+Execution Time: 17.24 seconds
+RAM Memory Usage: 1334.82 MB
+CPU Usage Per Core: [0.0, 30.0, 0.0, 10.0, 0.0, 0.0, 10.0, 10.0, 9.1, 0.0, 100.0, 0.0, 55.6, 0.0, 0.0, 60.0, 0.0, 27.3, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 9.1, 0.0, 33.3, 10.0, 0.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dssp
+Current Script: predict.py
+Execution Time: 17.53 seconds
+RAM Memory Usage: 1379.09 MB
+CPU Usage Per Core: [9.1, 0.0, 45.5, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 45.5, 0.0, 0.0, 0.0, 0.0, 0.0, 55.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 14.26 MB
+----------------------------------------
+Iteration: 1
+Combination: dsss
+Current Script: speech.py
+Execution Time: 1.85 seconds
+RAM Memory Usage: 352.51 MB
+CPU Usage Per Core: [100.0, 100.0, 20.0, 0.0, 81.8, 36.4, 0.0, 9.1, 9.1, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 18.2, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsss
+Current Script: speech.py
+Execution Time: 2.05 seconds
+RAM Memory Usage: 363.86 MB
+CPU Usage Per Core: [9.1, 0.0, 22.2, 10.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 50.0, 0.0, 9.1, 54.5, 0.0, 41.7, 20.0, 20.0, 0.0, 30.0, 20.0, 10.0, 100.0, 30.0, 18.2, 16.7]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsss
+Current Script: speech.py
+Execution Time: 2.07 seconds
+RAM Memory Usage: 363.23 MB
+CPU Usage Per Core: [9.1, 0.0, 22.2, 10.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 50.0, 0.0, 9.1, 54.5, 0.0, 41.7, 20.0, 20.0, 0.0, 30.0, 20.0, 10.0, 100.0, 30.0, 18.2, 16.7]
+GPU Usage: 9.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsss
+Current Script: detect.py
+Execution Time: 15.60 seconds
+RAM Memory Usage: 1354.22 MB
+CPU Usage Per Core: [0.0, 0.0, 72.7, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 26.00 %
+GPU Memory Usage: 13.35 MB
+----------------------------------------
+Iteration: 1
+Combination: dssd
+Current Script: speech.py
+Execution Time: 1.86 seconds
+RAM Memory Usage: 351.63 MB
+CPU Usage Per Core: [0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 100.0, 0.0, 50.0, 80.0, 0.0, 0.0, 100.0, 9.1, 10.0, 18.2, 27.3, 0.0, 50.0, 0.0, 0.0, 100.0, 0.0, 0.0, 18.2, 11.1, 0.0, 0.0, 0.0, 10.0, 0.0, 27.3]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dssd
+Current Script: speech.py
+Execution Time: 1.87 seconds
+RAM Memory Usage: 350.37 MB
+CPU Usage Per Core: [0.0, 0.0, 30.0, 0.0, 0.0, 0.0, 100.0, 0.0, 30.0, 90.0, 0.0, 0.0, 100.0, 0.0, 10.0, 9.1, 30.0, 0.0, 70.0, 0.0, 0.0, 100.0, 0.0, 0.0, 16.7, 10.0, 0.0, 0.0, 0.0, 9.1, 0.0, 45.5]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dssd
+Current Script: detect.py
+Execution Time: 16.59 seconds
+RAM Memory Usage: 1337.22 MB
+CPU Usage Per Core: [0.0, 9.1, 100.0, 100.0, 9.1, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 9.1, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: dssd
+Current Script: detect.py
+Execution Time: 16.76 seconds
+RAM Memory Usage: 1335.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 10.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 81.8, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdp
+Current Script: speech.py
+Execution Time: 1.83 seconds
+RAM Memory Usage: 363.22 MB
+CPU Usage Per Core: [100.0, 0.0, 100.0, 0.0, 9.1, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 20.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 0.0, 100.0, 30.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdp
+Current Script: detect.py
+Execution Time: 18.44 seconds
+RAM Memory Usage: 1336.03 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 0.0, 100.0, 18.2, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 10.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 11.1]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdp
+Current Script: detect.py
+Execution Time: 18.69 seconds
+RAM Memory Usage: 1360.74 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 40.0, 9.1, 0.0, 0.0, 0.0, 81.8, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdp
+Current Script: predict.py
+Execution Time: 19.07 seconds
+RAM Memory Usage: 1366.47 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dsds
+Current Script: speech.py
+Execution Time: 2.06 seconds
+RAM Memory Usage: 363.34 MB
+CPU Usage Per Core: [0.0, 100.0, 81.8, 0.0, 0.0, 100.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 0.0, 10.0, 0.0, 0.0, 0.0, 22.2, 0.0, 0.0, 0.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsds
+Current Script: speech.py
+Execution Time: 2.11 seconds
+RAM Memory Usage: 363.55 MB
+CPU Usage Per Core: [0.0, 100.0, 81.8, 0.0, 0.0, 100.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 0.0, 9.1, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsds
+Current Script: detect.py
+Execution Time: 16.74 seconds
+RAM Memory Usage: 1341.54 MB
+CPU Usage Per Core: [0.0, 0.0, 50.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 50.0, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: dsds
+Current Script: detect.py
+Execution Time: 16.89 seconds
+RAM Memory Usage: 1343.59 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 22.2, 10.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0]
+GPU Usage: 58.00 %
+GPU Memory Usage: 13.78 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdd
+Current Script: speech.py
+Execution Time: 1.78 seconds
+RAM Memory Usage: 346.18 MB
+CPU Usage Per Core: [10.0, 100.0, 0.0, 0.0, 9.1, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 90.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.92 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdd
+Current Script: detect.py
+Execution Time: 18.29 seconds
+RAM Memory Usage: 1343.07 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 9.1, 0.0, 10.0, 10.0, 9.1, 0.0, 0.0, 0.0, 20.0, 0.0, 66.7, 0.0, 0.0, 10.0, 100.0]
+GPU Usage: 69.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdd
+Current Script: detect.py
+Execution Time: 18.39 seconds
+RAM Memory Usage: 1336.25 MB
+CPU Usage Per Core: [0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 9.1, 0.0, 10.0, 10.0, 9.1, 0.0, 0.0, 0.0, 20.0, 0.0, 66.7, 0.0, 0.0, 10.0, 100.0]
+GPU Usage: 69.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: dsdd
+Current Script: detect.py
+Execution Time: 18.59 seconds
+RAM Memory Usage: 1339.95 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 20.0, 0.0, 33.3, 0.0, 0.0, 0.0, 0.0, 9.1, 30.0, 0.0, 0.0, 0.0]
+GPU Usage: 69.00 %
+GPU Memory Usage: 14.21 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpp
+Current Script: detect.py
+Execution Time: 20.98 seconds
+RAM Memory Usage: 1341.99 MB
+CPU Usage Per Core: [11.1, 22.2, 0.0, 10.0, 10.0, 0.0, 90.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 9.1, 11.1, 10.0, 0.0, 0.0, 18.2, 9.1, 0.0, 0.0, 0.0, 0.0, 30.0, 100.0, 0.0, 0.0, 30.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpp
+Current Script: detect.py
+Execution Time: 21.47 seconds
+RAM Memory Usage: 1335.45 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 63.6, 0.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 100.0, 10.0, 0.0, 0.0, 11.1, 10.0, 100.0, 0.0, 0.0, 0.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpp
+Current Script: predict.py
+Execution Time: 21.53 seconds
+RAM Memory Usage: 1361.18 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 20.0, 100.0, 0.0, 0.0, 0.0, 0.0, 9.1, 100.0, 0.0, 30.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpp
+Current Script: predict.py
+Execution Time: 21.54 seconds
+RAM Memory Usage: 1356.23 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 0.0, 0.0, 72.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 10.0, 100.0, 10.0, 0.0, 0.0, 10.0, 10.0, 100.0, 0.0, 10.0, 0.0]
+GPU Usage: 85.00 %
+GPU Memory Usage: 15.59 MB
+----------------------------------------
+Iteration: 1
+Combination: ddps
+Current Script: speech.py
+Execution Time: 2.03 seconds
+RAM Memory Usage: 353.55 MB
+CPU Usage Per Core: [18.2, 30.0, 10.0, 36.4, 100.0, 9.1, 10.0, 20.0, 0.0, 100.0, 40.0, 10.0, 100.0, 20.0, 10.0, 18.2, 9.1, 9.1, 18.2, 60.0, 0.0, 40.0, 25.0, 20.0, 10.0, 10.0, 60.0, 10.0, 100.0, 81.8, 18.2, 27.3]
+GPU Usage: 19.00 %
+GPU Memory Usage: 12.97 MB
+----------------------------------------
+Iteration: 1
+Combination: ddps
+Current Script: detect.py
+Execution Time: 19.55 seconds
+RAM Memory Usage: 1354.96 MB
+CPU Usage Per Core: [16.7, 0.0, 0.0, 54.5, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 40.0, 0.0, 0.0, 0.0, 0.0, 55.6, 0.0, 9.1, 50.0, 60.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: ddps
+Current Script: detect.py
+Execution Time: 19.58 seconds
+RAM Memory Usage: 1342.65 MB
+CPU Usage Per Core: [36.4, 10.0, 0.0, 55.6, 0.0, 0.0, 9.1, 30.0, 18.2, 0.0, 30.0, 11.1, 0.0, 22.2, 10.0, 0.0, 80.0, 0.0, 18.2, 80.0, 40.0, 0.0, 0.0, 18.2, 0.0, 10.0, 0.0, 33.3, 0.0, 27.3, 30.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: ddps
+Current Script: predict.py
+Execution Time: 19.62 seconds
+RAM Memory Usage: 1356.78 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 63.6, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 33.3, 0.0, 0.0, 41.7, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 81.00 %
+GPU Memory Usage: 14.75 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpd
+Current Script: detect.py
+Execution Time: 21.36 seconds
+RAM Memory Usage: 1335.51 MB
+CPU Usage Per Core: [30.0, 0.0, 70.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 90.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 41.7, 0.0, 20.0, 30.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpd
+Current Script: detect.py
+Execution Time: 21.40 seconds
+RAM Memory Usage: 1333.32 MB
+CPU Usage Per Core: [0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 11.1, 0.0, 0.0, 90.9, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 36.4, 0.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 18.2, 0.0, 10.0, 30.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpd
+Current Script: detect.py
+Execution Time: 21.44 seconds
+RAM Memory Usage: 1353.03 MB
+CPU Usage Per Core: [0.0, 0.0, 33.3, 0.0, 0.0, 0.0, 20.0, 11.1, 0.0, 0.0, 100.0, 0.0, 16.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 9.1, 0.0, 0.0, 9.1, 18.2, 0.0, 0.0, 0.0, 18.2, 0.0, 9.1]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: ddpd
+Current Script: predict.py
+Execution Time: 21.69 seconds
+RAM Memory Usage: 1356.74 MB
+CPU Usage Per Core: [9.1, 20.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 10.0, 9.1, 0.0, 80.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 84.00 %
+GPU Memory Usage: 15.19 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsp
+Current Script: speech.py
+Execution Time: 1.72 seconds
+RAM Memory Usage: 351.38 MB
+CPU Usage Per Core: [9.1, 10.0, 81.8, 9.1, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 100.0, 0.0]
+GPU Usage: 3.00 %
+GPU Memory Usage: 12.97 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsp
+Current Script: detect.py
+Execution Time: 18.80 seconds
+RAM Memory Usage: 1339.95 MB
+CPU Usage Per Core: [9.1, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 33.3, 0.0, 16.7]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.74 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsp
+Current Script: detect.py
+Execution Time: 18.92 seconds
+RAM Memory Usage: 1353.44 MB
+CPU Usage Per Core: [80.0, 0.0, 0.0, 11.1, 9.1, 10.0, 27.3, 27.3, 100.0, 0.0, 0.0, 20.0, 0.0, 10.0, 30.0, 20.0, 0.0, 9.1, 0.0, 27.3, 0.0, 10.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 9.1, 9.1, 0.0, 10.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.74 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsp
+Current Script: predict.py
+Execution Time: 19.31 seconds
+RAM Memory Usage: 1356.27 MB
+CPU Usage Per Core: [0.0, 0.0, 9.1, 27.3, 25.0, 10.0, 0.0, 22.2, 100.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 74.00 %
+GPU Memory Usage: 14.74 MB
+----------------------------------------
+Iteration: 1
+Combination: ddss
+Current Script: speech.py
+Execution Time: 2.04 seconds
+RAM Memory Usage: 363.96 MB
+CPU Usage Per Core: [36.4, 100.0, 70.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 55.6, 0.0, 27.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1]
+GPU Usage: 10.00 %
+GPU Memory Usage: 12.98 MB
+----------------------------------------
+Iteration: 1
+Combination: ddss
+Current Script: speech.py
+Execution Time: 2.14 seconds
+RAM Memory Usage: 364.34 MB
+CPU Usage Per Core: [100.0, 100.0, 30.0, 27.3, 33.3, 0.0, 22.2, 0.0, 10.0, 100.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0, 10.0, 0.0, 18.2, 0.0, 20.0, 18.2, 0.0, 0.0]
+GPU Usage: 10.00 %
+GPU Memory Usage: 12.98 MB
+----------------------------------------
+Iteration: 1
+Combination: ddss
+Current Script: detect.py
+Execution Time: 16.84 seconds
+RAM Memory Usage: 1335.40 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 18.2, 18.2, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 66.7, 9.1, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 81.8, 20.0]
+GPU Usage: 57.00 %
+GPU Memory Usage: 13.84 MB
+----------------------------------------
+Iteration: 1
+Combination: ddss
+Current Script: detect.py
+Execution Time: 16.85 seconds
+RAM Memory Usage: 1337.15 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 18.2, 18.2, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 77.8, 10.0, 0.0, 0.0, 0.0, 16.7, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 30.0]
+GPU Usage: 59.00 %
+GPU Memory Usage: 13.84 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsd
+Current Script: speech.py
+Execution Time: 1.74 seconds
+RAM Memory Usage: 353.36 MB
+CPU Usage Per Core: [0.0, 100.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 22.2, 0.0, 10.0, 33.3, 0.0, 10.0, 100.0, 20.0, 0.0, 0.0, 0.0]
+GPU Usage: 5.00 %
+GPU Memory Usage: 12.98 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsd
+Current Script: detect.py
+Execution Time: 18.88 seconds
+RAM Memory Usage: 1346.27 MB
+CPU Usage Per Core: [0.0, 100.0, 18.2, 0.0, 0.0, 100.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 9.1, 9.1, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsd
+Current Script: detect.py
+Execution Time: 18.95 seconds
+RAM Memory Usage: 1336.07 MB
+CPU Usage Per Core: [0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 9.1, 0.0, 0.0, 50.0, 9.1, 0.0, 9.1, 10.0, 0.0, 27.3, 0.0, 80.0, 80.0, 9.1, 10.0, 0.0, 0.0]
+GPU Usage: 72.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: ddsd
+Current Script: detect.py
+Execution Time: 19.04 seconds
+RAM Memory Usage: 1346.21 MB
+CPU Usage Per Core: [10.0, 0.0, 0.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0, 27.3, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 70.0, 0.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 20.0, 33.3, 9.1, 0.0, 0.0, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.28 MB
+----------------------------------------
+Iteration: 1
+Combination: dddp
+Current Script: detect.py
+Execution Time: 21.01 seconds
+RAM Memory Usage: 1343.62 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 20.0, 0.0, 100.0, 0.0, 0.0, 100.0, 0.0, 100.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 80.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: dddp
+Current Script: detect.py
+Execution Time: 21.15 seconds
+RAM Memory Usage: 1339.11 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 20.0, 10.0, 63.6, 100.0, 10.0, 30.0, 0.0, 0.0, 0.0, 25.0, 0.0, 80.0, 0.0, 0.0, 0.0, 10.0, 20.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: dddp
+Current Script: detect.py
+Execution Time: 21.18 seconds
+RAM Memory Usage: 1342.05 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 0.0, 0.0, 10.0, 0.0, 10.0, 9.1, 0.0, 0.0, 0.0, 72.7, 100.0, 16.7, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 10.0, 50.0, 0.0, 0.0, 0.0, 0.0, 10.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: dddp
+Current Script: predict.py
+Execution Time: 21.41 seconds
+RAM Memory Usage: 1372.10 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 18.2, 0.0, 10.0, 0.0, 100.0, 0.0, 10.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 15.18 MB
+----------------------------------------
+Iteration: 1
+Combination: ddds
+Current Script: speech.py
+Execution Time: 2.09 seconds
+RAM Memory Usage: 363.62 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 9.1, 10.0, 9.1, 0.0, 0.0, 0.0, 0.0, 70.0, 27.3, 10.0, 0.0, 100.0, 100.0, 0.0, 40.0, 0.0, 0.0, 55.6, 0.0, 0.0, 10.0, 10.0, 10.0, 30.0, 0.0, 0.0, 0.0, 40.0, 0.0]
+GPU Usage: 4.00 %
+GPU Memory Usage: 12.98 MB
+----------------------------------------
+Iteration: 1
+Combination: ddds
+Current Script: detect.py
+Execution Time: 18.71 seconds
+RAM Memory Usage: 1337.23 MB
+CPU Usage Per Core: [0.0, 0.0, 40.0, 0.0, 0.0, 9.1, 50.0, 60.0, 77.8, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 54.5, 0.0, 9.1, 54.5, 11.1, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.27 MB
+----------------------------------------
+Iteration: 1
+Combination: ddds
+Current Script: detect.py
+Execution Time: 18.73 seconds
+RAM Memory Usage: 1368.31 MB
+CPU Usage Per Core: [0.0, 0.0, 20.0, 0.0, 10.0, 9.1, 70.0, 80.0, 60.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 36.4, 0.0, 9.1, 50.0, 20.0, 0.0, 0.0, 0.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 76.00 %
+GPU Memory Usage: 14.27 MB
+----------------------------------------
+Iteration: 1
+Combination: ddds
+Current Script: detect.py
+Execution Time: 18.75 seconds
+RAM Memory Usage: 1338.05 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 30.0, 9.1, 90.9, 80.0, 30.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 40.0, 33.3, 10.0, 18.2, 0.0, 10.0, 10.0, 9.1, 0.0, 0.0, 9.1, 9.1, 0.0]
+GPU Usage: 73.00 %
+GPU Memory Usage: 14.27 MB
+----------------------------------------
+Iteration: 1
+Combination: dddd
+Current Script: detect.py
+Execution Time: 20.26 seconds
+RAM Memory Usage: 1338.78 MB
+CPU Usage Per Core: [0.0, 0.0, 10.0, 9.1, 0.0, 100.0, 0.0, 0.0, 0.0, 100.0, 40.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 60.0, 0.0, 0.0, 0.0, 0.0, 50.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dddd
+Current Script: detect.py
+Execution Time: 20.36 seconds
+RAM Memory Usage: 1335.16 MB
+CPU Usage Per Core: [0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 100.0, 70.0, 0.0, 100.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 30.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dddd
+Current Script: detect.py
+Execution Time: 20.40 seconds
+RAM Memory Usage: 1336.19 MB
+CPU Usage Per Core: [0.0, 0.0, 20.0, 22.2, 0.0, 100.0, 10.0, 0.0, 0.0, 88.9, 10.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 9.1, 9.1, 0.0, 54.5, 0.0, 0.0, 0.0, 0.0, 90.0, 11.1, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: dddd
+Current Script: detect.py
+Execution Time: 20.44 seconds
+RAM Memory Usage: 1338.63 MB
+CPU Usage Per Core: [0.0, 0.0, 45.5, 30.0, 0.0, 100.0, 10.0, 9.1, 10.0, 63.6, 0.0, 0.0, 100.0, 0.0, 0.0, 0.0, 9.1, 9.1, 9.1, 0.0, 55.6, 0.0, 0.0, 0.0, 0.0, 80.0, 22.2, 9.1, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 82.00 %
+GPU Memory Usage: 14.69 MB
+----------------------------------------
+Iteration: 1
+Combination: ppppp
+Current Script: predict.py
+Execution Time: 26.16 seconds
+RAM Memory Usage: 1360.89 MB
+CPU Usage Per Core: [0.0, 18.2, 9.1, 20.0, 55.6, 9.1, 80.0, 0.0, 22.2, 0.0, 9.1, 0.0, 100.0, 100.0, 0.0, 100.0, 11.1, 10.0, 36.4, 80.0, 10.0, 25.0, 0.0, 11.1, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0]
+GPU Usage: 89.00 %
+GPU Memory Usage: 17.51 MB
+----------------------------------------
+Iteration: 1
+Combination: ppppp
+Current Script: predict.py
+Execution Time: 26.93 seconds
+RAM Memory Usage: 1361.42 MB
+CPU Usage Per Core: [40.0, 0.0, 10.0, 100.0, 88.9, 9.1, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 10.0, 0.0, 0.0, 20.0, 10.0, 44.4, 0.0, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0, 20.0, 100.0, 0.0, 9.1, 100.0]
+GPU Usage: 89.00 %
+GPU Memory Usage: 17.51 MB
+----------------------------------------
+Iteration: 1
+Combination: ppppp
+Current Script: predict.py
+Execution Time: 27.08 seconds
+RAM Memory Usage: 1382.53 MB
+CPU Usage Per Core: [11.1, 0.0, 9.1, 100.0, 100.0, 9.1, 20.0, 20.0, 0.0, 0.0, 9.1, 0.0, 0.0, 88.9, 18.2, 0.0, 0.0, 22.2, 9.1, 60.0, 0.0, 11.1, 0.0, 0.0, 0.0, 25.0, 9.1, 20.0, 90.0, 0.0, 10.0, 100.0]
+GPU Usage: 89.00 %
+GPU Memory Usage: 17.51 MB
+----------------------------------------
+Iteration: 1
+Combination: ppppp
+Current Script: predict.py
+Execution Time: 27.19 seconds
+RAM Memory Usage: 1355.61 MB
+CPU Usage Per Core: [0.0, 9.1, 0.0, 0.0, 0.0, 44.4, 0.0, 10.0, 9.1, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 18.2, 60.0, 0.0, 60.0, 0.0, 10.0, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+GPU Usage: 89.00 %
+GPU Memory Usage: 17.51 MB
+----------------------------------------
+Iteration: 1
+Combination: ppppp
+Current Script: predict.py
+Execution Time: 27.21 seconds
+RAM Memory Usage: 1356.48 MB
+CPU Usage Per Core: [0.0, 9.1, 10.0, 0.0, 10.0, 44.4, 0.0, 0.0, 9.1, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, 18.2, 60.0, 0.0, 50.0, 0.0, 9.1, 0.0, 18.2, 0.0, 0.0, 0.0, 0.0, 9.1, 0.0]
+GPU Usage: 89.00 %
+GPU Memory Usage: 17.51 MB
+----------------------------------------
