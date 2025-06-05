@@ -1,0 +1,7 @@
+Grid Search Complete.
+Best Parameters: {'mlp__alpha': 0.01, 'mlp__hidden_layer_sizes': (100, 50)}
+Best Score (MSE): 2.7519
+
+Evaluation on Test Set using the Best Model:
+Mean Squared Error (MSE): 2.6270
+R² Score: 0.5939
